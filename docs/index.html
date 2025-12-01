@@ -32,6 +32,17 @@
             padding: 12px;
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
         }
+        .video-wrapper {
+            max-width: 960px;   /* 控制整体宽度 */
+            margin: 0 auto;     /* 居中 */
+        }
+
+        .video-card iframe {
+            width: 100%;
+            height: 540px;      /* 自己看着调一个合适高度 */
+            border-radius: 14px;
+        }
+
         .video-card iframe,
         .video-card video {
             width: 100%;
@@ -52,19 +63,30 @@
 <body>
 <h1>TNavRL: Cross-Modal Transformer for Humanoid Visual Navigation</h1>
 
-<h2>Avoid Dynamic Obstacle Experiments</h2>
+<h2>Experiment 1: Avoid Dynamic Obstacle</h2>
+<div class="video-wrapper">
+    <div class="video-card">
+        <iframe
+                src="https://player.bilibili.com/player.html?isOutside=true&aid=115416508664497&bvid=BV1wis8zqEDs&cid=33293209551&p=1&autoplay=1"
+                scrolling="no"
+                border="0"
+                frameborder="no"
+                allowfullscreen="true">
+        </iframe>
+    </div>
+</div>
+
+<h3>Experiment 3: Avoid Static Obstacle</h3>
 <div class="video-card">
     <iframe
-            src="https://player.bilibili.com/player.html?isOutside=true&aid=115416508664497&bvid=BV1wis8zqEDs&cid=33293209551&p=1&autoplay=1"
+            src="//player.bilibili.com/player.html?isOutside=true&aid=115565154799183&bvid=BV11TCqBsECS&cid=34071249534&p=1&autoplay=1"
             scrolling="no"
             border="0"
             frameborder="no"
             allowfullscreen="true"
             style="width:100%; height:480px; border-radius:14px;">
     </iframe>
-    <p class="caption">Outdoor Demo</p>
 </div>
-
 
 
 </body>
