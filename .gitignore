@@ -1,0 +1,5 @@
+.idea/
+/outputs/
+/logs/
+/rsl_rl/rsl_rl_lib.egg-info/
+/wandb/

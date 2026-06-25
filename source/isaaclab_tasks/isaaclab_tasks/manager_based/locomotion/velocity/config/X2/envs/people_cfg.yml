@@ -1,0 +1,218 @@
+# Copyright (c) 2023-2025, ETH Zurich (Robotics Systems Lab)
+# Author: Pascal Roth
+# All rights reserved.
+#
+# SPDX-License-Identifier: BSD-3-Clause
+
+person_1:
+  prim_name: "Person_1"
+  translation: [-30, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_2:
+  prim_name: "Person_2"
+  translation: [-30, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_3:
+  prim_name: "Person_3"
+  translation: [-30, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_4:
+  prim_name: "Person_4"
+  translation: [-30, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_5:
+  prim_name: "Person_5"
+  translation: [-30, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_6:
+  prim_name: "Person_6"
+  translation: [-20, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_7:
+  prim_name: "Person_7"
+  translation: [-20, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_8:
+  prim_name: "Person_8"
+  translation: [-20, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_9:
+  prim_name: "Person_9"
+  translation: [-20, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_10:
+  prim_name: "Person_10"
+  translation: [-20, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_11:
+  prim_name: "Person_11"
+  translation: [-10, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_12:
+  prim_name: "Person_12"
+  translation: [-10, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_13:
+  prim_name: "Person_13"
+  translation: [-10, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_14:
+  prim_name: "Person_14"
+  translation: [-10, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_15:
+  prim_name: "Person_15"
+  translation: [-10, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_16:
+  prim_name: "Person_16"
+  translation: [0, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_17:
+  prim_name: "Person_17"
+  translation: [0, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_18:
+  prim_name: "Person_18"
+  translation: [0, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_19:
+  prim_name: "Person_19"
+  translation: [0, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_20:
+  prim_name: "Person_20"
+  translation: [0, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+
+person_21:
+  prim_name: "Person_21"
+  translation: [10, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_22:
+  prim_name: "Person_22"
+  translation: [10, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_23:
+  prim_name: "Person_23"
+  translation: [10, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_24:
+  prim_name: "Person_24"
+  translation: [10, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_25:
+  prim_name: "Person_25"
+  translation: [10, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_26:
+  prim_name: "Person_26"
+  translation: [20, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_27:
+  prim_name: "Person_27"
+  translation: [20, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_28:
+  prim_name: "Person_28"
+  translation: [20, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_29:
+  prim_name: "Person_29"
+  translation: [20, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_30:
+  prim_name: "Person_30"
+  translation: [20, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_31:
+  prim_name: "Person_31"
+  translation: [30, -20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_32:
+  prim_name: "Person_32"
+  translation: [30, -10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_33:
+  prim_name: "Person_33"
+  translation: [30, 0, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_34:
+  prim_name: "Person_34"
+  translation: [30, 10, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+person_35:
+  prim_name: "Person_35"
+  translation: [30, 20, 0.0]
+  target: [0, 0, 0]
+  usd_path: /home/user/CODE/TNavRL/model/people/people.usd
+
+

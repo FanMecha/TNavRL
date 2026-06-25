@@ -1,0 +1,3 @@
+model/newOffice.usd filter=lfs diff=lfs merge=lfs -text
+model/office0.usd filter=lfs diff=lfs merge=lfs -text
+model/office1.usd filter=lfs diff=lfs merge=lfs -text
